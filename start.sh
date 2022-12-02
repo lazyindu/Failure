@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/lazyindu/Failure.git /Mdisk-Search-Bot
-cd /Mdisk-Search-Bot
+git clone https://github.com/lazyindu/failure.git /MessageSearchBot
+cd /MessageSearchBot
 pip3 install -U -r requirements.txt
-echo "Starting Bot....ANURAG"
+echo "Starting Bot..."
 python3 main.py
